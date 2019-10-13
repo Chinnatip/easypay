@@ -1,6 +1,6 @@
 {
-  "short_name": "QR-X",
-  "name": "Easiest QRCode reader.",
+  "short_name": "EASYPay",
+  "name": "EASYPayment with PromptPay",
   "icons": [
     {
       "src": "launcher-icon-2x.png",
@@ -22,6 +22,6 @@
   "scope": "/",
   "start_url": "./?homescreen=true",
   "orientation": "portrait",
-  "theme_color": "#F36F62",
-  "background_color": "#F36F62"
+  "theme_color": "#127bfe",
+  "background_color": "#127bfe"
 }

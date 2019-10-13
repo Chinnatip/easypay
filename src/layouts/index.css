@@ -2,6 +2,8 @@
 .normal {
   font-family:  Sarabun , Avenir ;
   text-align: center;
+  height: 100%;
+  border: 8px solid #193663;
 }
 
 .title {

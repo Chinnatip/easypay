@@ -38,12 +38,6 @@
 .menu-active .top-nav-bar{
   z-index: 80;
 }
-.navbar{
-  background: #ffc800 !important;
-  color: #2D2D2D !important;
-  letter-spacing: 0.5px;
-  font-weight: 600;
-}
 
 .menu-mask {
   content: ' ';
