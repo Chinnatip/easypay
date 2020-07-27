@@ -15,7 +15,7 @@
     "antd-mobile-demo-data": "^0.3.0",
     "buffer": "^5.4.3",
     "fs": "^0.0.1-security",
-    "jpeg-js": "^0.3.6",
+    "jpeg-js": "^0.4.1",
     "jsqr": "^1.2.0",
     "pngjs": "^3.4.0",
     "promptpay-qr": "^0.4.4",
